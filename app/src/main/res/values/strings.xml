@@ -13,4 +13,8 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="welcomeText">Добредојдовте во Свадбен Водич</string>
+    <string name="notYet">Се уште се немате регистрирано?</string>
+    <string name="reg">Регистрирај се</string>
+    <string name="google">Или најави се со:</string>
 </resources>

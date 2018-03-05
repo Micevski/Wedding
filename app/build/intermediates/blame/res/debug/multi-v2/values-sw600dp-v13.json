@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\DELL\\Documents\\Wedding\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\24397f1f4f7f360771213294c0b2488a\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
