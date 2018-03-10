@@ -7,7 +7,6 @@ import android.view.View;
 import android.widget.TextView;
 
 public class LoginRegister extends AppCompatActivity {
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -25,6 +24,20 @@ public class LoginRegister extends AppCompatActivity {
                     }
                 };
                 registerThred.start();
+            }
+        });
+        TextView textViewSkip = (TextView)findViewById(R.id.skip);
+        textView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Thread skip = new Thread(){
+                    @Override
+                    public void run() {
+                        Intent regIntent = new Intent(getApplicationContext(),MainActivity.class);
+                        startActivity(regIntent);
+                    }
+                };
+                skip.start();
             }
         });
     }
