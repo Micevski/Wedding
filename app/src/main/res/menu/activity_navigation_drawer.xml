@@ -10,16 +10,32 @@
             android:title="Ресторанти" />
         <item
             android:id="@+id/photo"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="Gallery" />
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Фотографиј" />
         <item
-            android:id="@+id/nav_slideshow"
+            android:id="@+id/clothing"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Slideshow" />
+            android:title="Облека" />
+
         <item
-            android:id="@+id/nav_manage"
-            android:icon="@drawable/ic_menu_manage"
-            android:title="Tools" />
+            android:id="@+id/makeUp"
+            android:icon="@drawable/ic_brush"
+            android:title="Шминка"/>
+
+        <item
+            android:id="@+id/music"
+            android:icon="@drawable/ic_music"
+            android:title="Музика" />
+        <item
+            android:id="@+id/cake"
+            android:icon="@drawable/ic_cake"
+            android:title="Торти"/>
+        <item
+            android:id="@+id/decoration"
+            android:icon="@drawable/ic_decoration"
+            android:title="Декорација"/>
+
+
     </group>
 
     <item android:title="Communicate">
@@ -28,10 +44,6 @@
                 android:id="@+id/nav_share"
                 android:icon="@drawable/ic_menu_share"
                 android:title="Share" />
-            <item
-                android:id="@+id/nav_send"
-                android:icon="@drawable/ic_menu_send"
-                android:title="Send" />
         </menu>
     </item>
 

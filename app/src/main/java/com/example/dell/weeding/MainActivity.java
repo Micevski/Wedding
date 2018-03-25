@@ -8,13 +8,20 @@ import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.RecyclerView;
 import android.view.MenuItem;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
+import android.widget.TextView;
 
- public class MainActivity extends AppCompatActivity {
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
 
+public class MainActivity extends AppCompatActivity {
+
+    private RecyclerView recyclerView;
     private DrawerLayout mDrawerLayout;
+
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
@@ -32,8 +39,9 @@ import android.view.View;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_navigation);
 
-        mDrawerLayout = findViewById(R.id.drawer_layout);
+        recyclerView = findViewById(R.id.RecyclerView);
 
+        mDrawerLayout = findViewById(R.id.drawer_layout);
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         ActionBar actionbar = getSupportActionBar();

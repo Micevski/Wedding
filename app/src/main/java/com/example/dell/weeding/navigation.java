@@ -12,16 +12,27 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.TextView;
+
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
+
+import org.w3c.dom.Text;
 
 public class navigation extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
+    private TextView emailAccount;
+    private FirebaseUser mAuht;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_navigation);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+        emailAccount =  (TextView)findViewById(R.id.emailAccount);
+        mAuht = FirebaseAuth.getInstance().getCurrentUser();
+        emailAccount.setText(mAuht.getEmail());
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
@@ -80,19 +91,22 @@ public class navigation extends AppCompatActivity
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
-        if (id == R.id.nav_camera) {
+        if (id == R.id.restorurant) {
             // Handle the camera action
-        } else if (id == R.id.nav_gallery) {
+        } else if (id == R.id.photo) {
 
-        } else if (id == R.id.nav_slideshow) {
+        } else if (id == R.id.clothing) {
 
-        } else if (id == R.id.nav_manage) {
+        } else if (id == R.id.makeUp) {
 
-        } else if (id == R.id.nav_share) {
+        } else if (id == R.id.music) {
 
-        } else if (id == R.id.nav_send) {
+        } else if (id == R.id.cake) {
+
+        } else if (id==R.id.decoration){
 
         }
+
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
