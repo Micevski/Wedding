@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "196149490325",
+    "firebase_url": "https://wedding-1520275013152.firebaseio.com",
+    "project_id": "wedding-1520275013152",
+    "storage_bucket": "wedding-1520275013152.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196149490325:android:eb69c65b15b36122",
+        "android_client_info": {
+          "package_name": "com.example.dell.weeding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196149490325-4mku1kasj2vqsi0qgpcacekuirct0nvm.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "196149490325-kd5m0rtravishougb3nr0fpqarq5fjp2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "196149490325-75p5pkijgl26q966fke7uckkpmcf3c7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.weeding",
+            "certificate_hash": "e43cba0e1928919c91b54ab8064fbb9f5d5e7860"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgEEX7TX8p10pdYFsEVuOyFfd4L9MpKo8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196149490325-4mku1kasj2vqsi0qgpcacekuirct0nvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

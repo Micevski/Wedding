@@ -12,8 +12,8 @@ public class LoginRegister extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login_register);
 
-        TextView textView = (TextView)findViewById(R.id.register);
-        textView.setOnClickListener(new View.OnClickListener() {
+        TextView textViewReg = (TextView)findViewById(R.id.register);
+        textViewReg.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Thread registerThred = new Thread(){
@@ -27,17 +27,11 @@ public class LoginRegister extends AppCompatActivity {
             }
         });
         TextView textViewSkip = (TextView)findViewById(R.id.skip);
-        textView.setOnClickListener(new View.OnClickListener() {
+        textViewSkip.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Thread skip = new Thread(){
-                    @Override
-                    public void run() {
                         Intent regIntent = new Intent(getApplicationContext(),MainActivity.class);
                         startActivity(regIntent);
-                    }
-                };
-                skip.start();
             }
         });
     }

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-32:12
+ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-36:12
 MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\c454370097da1813abcbb2979edc5713\AndroidManifest.xml:17:1-39:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\24397f1f4f7f360771213294c0b2488a\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d8646079c8479b1330a1ece2ef6584f8\AndroidManifest.xml:17:1-31:12
@@ -29,20 +29,20 @@ MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\
 MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\18d7bddf078e81da11d4cf6255a47dc7\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\0f9d9b839c3996b031ddc7afb1ac4769\AndroidManifest.xml:2:1-6:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f332865e3fb68f1aa2f6c1d20030cbd8\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-36:12
 	package
 		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:3:5-39
 		INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-32:12
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-36:12
 		INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-32:12
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-36:12
 		INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:11-69
@@ -59,7 +59,7 @@ ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml
 	android:name
 		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:8:22-69
 application
-ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:10:5-30:19
+ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:10:5-34:19
 MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\c454370097da1813abcbb2979edc5713\AndroidManifest.xml:22:5-37:19
 MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\c454370097da1813abcbb2979edc5713\AndroidManifest.xml:22:5-37:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\24397f1f4f7f360771213294c0b2488a\AndroidManifest.xml:25:5-29:19
@@ -145,9 +145,17 @@ ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml
 	android:name
 		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:28:19-43
 activity#com.example.dell.weeding.MainActivity
-ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:29:9-59
+ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:29:9-50
 	android:name
 		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:29:19-47
+activity#com.example.dell.weeding.navigation
+ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:30:9-33:81
+	android:label
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:32:13-62
+	android:theme
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:33:13-69
+	android:name
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:31:13-39
 uses-sdk
 INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml

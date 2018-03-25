@@ -36,6 +36,10 @@
         <activity android:name="com.example.dell.weeding.Register" />
         <activity android:name="com.example.dell.weeding.MainActivity" />
         <activity
+            android:name="com.example.dell.weeding.navigation"
+            android:label="@string/title_activity_navigation"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
             android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
             android:excludeFromRecents="true"
             android:exported="false"
