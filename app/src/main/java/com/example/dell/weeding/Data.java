@@ -10,8 +10,7 @@ public class Data {
     private String address;
     private String imgAddress;
 
-    public Data(int id, String name, String address, String imgAddress) {
-        this.id = id;
+    public Data(String name, String address, String imgAddress) {
         this.name = name;
         this.address = address;
         this.imgAddress = imgAddress;

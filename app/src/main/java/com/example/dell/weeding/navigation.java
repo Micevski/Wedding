@@ -30,9 +30,7 @@ public class navigation extends AppCompatActivity
         setContentView(R.layout.activity_navigation);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        emailAccount =  (TextView)findViewById(R.id.emailAccount);
-        mAuht = FirebaseAuth.getInstance().getCurrentUser();
-        emailAccount.setText(mAuht.getEmail());
+
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
@@ -92,7 +90,7 @@ public class navigation extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.restorurant) {
-            // Handle the camera action
+
         } else if (id == R.id.photo) {
 
         } else if (id == R.id.clothing) {
@@ -106,6 +104,7 @@ public class navigation extends AppCompatActivity
         } else if (id==R.id.decoration){
 
         }
+
 
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
