@@ -1,18 +1,20 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-37:12
+ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-63:12
 MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\a5221b4910db6086cb3660c9a6683e7b\AndroidManifest.xml:17:1-39:12
 MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\d71b9950b172f633aee27535686a228d\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5c817fb290d334d3447ac7f9d3fa33ec\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\bf63b10afe93879b1c00712c3af4bf80\AndroidManifest.xml:17:1-28:12
+MERGED from [com.github.ApendIr:slider:1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\slider-1.0.aar\7c843b09f2c7401aabbb703c7100d00d\AndroidManifest.xml:2:1-17:12
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\b388368cf05772f5c7d836acf73aa7b0\AndroidManifest.xml:2:1-6:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f39598cd3ba1c651d8a028bfd693592f\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\97f3ce716b822439225962ddb607e948\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\90f9986ebdbdac95009a9b4ea4f55fc5\AndroidManifest.xml:17:1-32:12
 MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-database-11.8.0.aar\e21881cf07f2eb1fb6cbabdd43d78c3f\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\45fe5aaafb8d8d95673c88dbe7e5a04f\AndroidManifest.xml:17:1-32:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.8.0.aar\6ebd549ccb0b94e8419df6a9f8e7a401\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.8.0.aar\0bb28c6657a8c6884b1fcc14cc619fa6\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f9632ae1a769f65274a2ba991d093de3\AndroidManifest.xml:17:1-29:12
@@ -34,6 +36,7 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\DELL\.gradl
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\586e7db3fc765e8c1acc0103bcee8846\AndroidManifest.xml:17:1-31:12
 MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\0991bcd10d77083ee5bcfee91b072216\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\bde621f7fbddac45bc53b3834f7de14a\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\c87aad8dbacab8142f75c59135a651e4\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.8.0.aar\8605fa466fa0497813d1d93800959b14\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.8.0.aar\c2bc7d6eb70ef0640740c4a19740b5f6\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\7fee893de4c8e8790bfda5da15268001\AndroidManifest.xml:2:1-6:12
@@ -45,20 +48,20 @@ MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\DELL\.
 MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\fceeb36c47613bb87994ba01c301eb59\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\64137f3657b6538ab66937e391af2fe9\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\990639e59da0226f7d6208bc0093986d\AndroidManifest.xml:2:1-6:12
-INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-63:12
 	package
 		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:3:5-39
 		INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-37:12
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-63:12
 		INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-37:12
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:1-63:12
 		INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:2:11-69
@@ -75,7 +78,9 @@ ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml
 	android:name
 		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:8:22-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:9:5-66
+ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\45fe5aaafb8d8d95673c88dbe7e5a04f\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\45fe5aaafb8d8d95673c88dbe7e5a04f\AndroidManifest.xml:24:5-67
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\af9f632d612ee65b7dcdcc5bb2071df9\AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\af9f632d612ee65b7dcdcc5bb2071df9\AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\75e305da26e69e6fb6385bb5612cb95d\AndroidManifest.xml:23:5-67
@@ -84,8 +89,16 @@ MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\DELL\.gradle\cach
 MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\29088cc7f51789571c219f19d35e7fae\AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:10:5-69
+	android:name
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:10:22-66
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:17:22-76
 application
-ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:11:5-35:19
+ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:19:5-61:19
 MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\a5221b4910db6086cb3660c9a6683e7b\AndroidManifest.xml:22:5-37:19
 MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\a5221b4910db6086cb3660c9a6683e7b\AndroidManifest.xml:22:5-37:19
 MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\d71b9950b172f633aee27535686a228d\AndroidManifest.xml:22:5-26:19
@@ -94,6 +107,8 @@ MERGED from [com.android.support:design:26.1.0] C:\Users\DELL\.gradle\caches\tra
 MERGED from [com.android.support:design:26.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5c817fb290d334d3447ac7f9d3fa33ec\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\bf63b10afe93879b1c00712c3af4bf80\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\bf63b10afe93879b1c00712c3af4bf80\AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.ApendIr:slider:1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\slider-1.0.aar\7c843b09f2c7401aabbb703c7100d00d\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.ApendIr:slider:1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\slider-1.0.aar\7c843b09f2c7401aabbb703c7100d00d\AndroidManifest.xml:11:5-15:19
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\b388368cf05772f5c7d836acf73aa7b0\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\b388368cf05772f5c7d836acf73aa7b0\AndroidManifest.xml:5:5-20
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f39598cd3ba1c651d8a028bfd693592f\AndroidManifest.xml:25:5-29:19
@@ -102,6 +117,8 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DE
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\97f3ce716b822439225962ddb607e948\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\90f9986ebdbdac95009a9b4ea4f55fc5\AndroidManifest.xml:22:5-30:19
 MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\90f9986ebdbdac95009a9b4ea4f55fc5\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\45fe5aaafb8d8d95673c88dbe7e5a04f\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\45fe5aaafb8d8d95673c88dbe7e5a04f\AndroidManifest.xml:30:5-20
 MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f9632ae1a769f65274a2ba991d093de3\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f9632ae1a769f65274a2ba991d093de3\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\af9f632d612ee65b7dcdcc5bb2071df9\AndroidManifest.xml:27:5-52:19
@@ -138,6 +155,8 @@ MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\DELL\.gr
 MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\0991bcd10d77083ee5bcfee91b072216\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\bde621f7fbddac45bc53b3834f7de14a\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\bde621f7fbddac45bc53b3834f7de14a\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\c87aad8dbacab8142f75c59135a651e4\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\c87aad8dbacab8142f75c59135a651e4\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.8.0.aar\8605fa466fa0497813d1d93800959b14\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.8.0.aar\8605fa466fa0497813d1d93800959b14\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.8.0.aar\c2bc7d6eb70ef0640740c4a19740b5f6\AndroidManifest.xml:5:5-20
@@ -161,55 +180,77 @@ MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\User
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\990639e59da0226f7d6208bc0093986d\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\990639e59da0226f7d6208bc0093986d\AndroidManifest.xml:5:5-20
 	android:supportsRtl
-		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:24:9-35
 	android:label
-		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:14:9-41
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:22:9-41
 	android:roundIcon
-		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:15:9-54
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:23:9-54
 	android:icon
-		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:13:9-43
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:21:9-43
 	android:allowBackup
-		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:20:9-35
 	android:theme
-		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:17:9-65
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:25:9-65
 activity#com.example.dell.weeding.SplashAct
-ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:18:9-27:20
+ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:26:9-35:20
 	android:label
-		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:20:13-45
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:28:13-45
 	android:theme
-		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:21:13-66
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:29:13-66
 	android:name
-		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:19:13-38
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:27:13-38
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:22:13-26:29
+ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:30:13-34:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:23:17-69
+ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:23:25-66
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:33:17-77
 	android:name
-		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:33:27-74
 activity#com.example.dell.weeding.LoginRegister
-ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:28:9-51
+ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:36:9-51
 	android:name
-		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:28:19-48
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:36:19-48
 activity#com.example.dell.weeding.Register
-ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:29:9-46
+ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:37:9-46
 	android:name
-		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:29:19-43
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:37:19-43
 activity#com.example.dell.weeding.MainActivity
-ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:30:9-50
+ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:38:9-50
 	android:name
-		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:30:19-47
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:38:19-47
 activity#com.example.dell.weeding.navigation
-ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:31:9-34:81
+ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:39:9-42:72
 	android:label
-		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:33:13-62
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:41:13-62
 	android:theme
-		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:34:13-69
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:42:13-69
 	android:name
-		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:32:13-39
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:40:13-39
+activity#com.example.dell.weeding.PersonalInfo
+ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:43:9-50
+	android:name
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:43:19-47
+activity#com.example.dell.weeding.ItemDetials
+ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:44:9-49
+	android:name
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:44:19-46
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:53:9-55:55
+	android:value
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:55:13-52
+	android:name
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:54:13-58
+activity#com.example.dell.weeding.FavoritesActivity
+ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:57:9-60:81
+	android:label
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:59:13-61
+	android:theme
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:60:13-69
+	android:name
+		ADDED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml:58:13-46
 uses-sdk
 INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\DELL\Documents\Repo\Wedding\app\src\main\AndroidManifest.xml
@@ -222,6 +263,8 @@ MERGED from [com.android.support:design:26.1.0] C:\Users\DELL\.gradle\caches\tra
 MERGED from [com.android.support:design:26.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5c817fb290d334d3447ac7f9d3fa33ec\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\bf63b10afe93879b1c00712c3af4bf80\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\bf63b10afe93879b1c00712c3af4bf80\AndroidManifest.xml:20:5-44
+MERGED from [com.github.ApendIr:slider:1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\slider-1.0.aar\7c843b09f2c7401aabbb703c7100d00d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ApendIr:slider:1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\slider-1.0.aar\7c843b09f2c7401aabbb703c7100d00d\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\b388368cf05772f5c7d836acf73aa7b0\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\b388368cf05772f5c7d836acf73aa7b0\AndroidManifest.xml:4:5-43
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f39598cd3ba1c651d8a028bfd693592f\AndroidManifest.xml:21:5-23:78
@@ -232,6 +275,8 @@ MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\DELL\.gradle\cac
 MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\90f9986ebdbdac95009a9b4ea4f55fc5\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-database-11.8.0.aar\e21881cf07f2eb1fb6cbabdd43d78c3f\AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-database-11.8.0.aar\e21881cf07f2eb1fb6cbabdd43d78c3f\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\45fe5aaafb8d8d95673c88dbe7e5a04f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\45fe5aaafb8d8d95673c88dbe7e5a04f\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.8.0.aar\6ebd549ccb0b94e8419df6a9f8e7a401\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.8.0.aar\6ebd549ccb0b94e8419df6a9f8e7a401\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.8.0.aar\0bb28c6657a8c6884b1fcc14cc619fa6\AndroidManifest.xml:5:5-44
@@ -274,6 +319,8 @@ MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\DELL\.gr
 MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\0991bcd10d77083ee5bcfee91b072216\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\bde621f7fbddac45bc53b3834f7de14a\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\bde621f7fbddac45bc53b3834f7de14a\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\c87aad8dbacab8142f75c59135a651e4\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\c87aad8dbacab8142f75c59135a651e4\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.8.0.aar\8605fa466fa0497813d1d93800959b14\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.8.0.aar\8605fa466fa0497813d1d93800959b14\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.8.0.aar\c2bc7d6eb70ef0640740c4a19740b5f6\AndroidManifest.xml:4:5-43
@@ -370,6 +417,22 @@ ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\DELL\.gradle\cach
 		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\90f9986ebdbdac95009a9b4ea4f55fc5\AndroidManifest.xml:29:13-72
 	android:name
 		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\90f9986ebdbdac95009a9b4ea4f55fc5\AndroidManifest.xml:24:13-85
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\45fe5aaafb8d8d95673c88dbe7e5a04f\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\af9f632d612ee65b7dcdcc5bb2071df9\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\af9f632d612ee65b7dcdcc5bb2071df9\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\75e305da26e69e6fb6385bb5612cb95d\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\75e305da26e69e6fb6385bb5612cb95d\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\29088cc7f51789571c219f19d35e7fae\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\29088cc7f51789571c219f19d35e7fae\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\45fe5aaafb8d8d95673c88dbe7e5a04f\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\45fe5aaafb8d8d95673c88dbe7e5a04f\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\45fe5aaafb8d8d95673c88dbe7e5a04f\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\45fe5aaafb8d8d95673c88dbe7e5a04f\AndroidManifest.xml:28:9-32
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f9632ae1a769f65274a2ba991d093de3\AndroidManifest.xml:23:9-26:75
 	android:exported
@@ -378,14 +441,6 @@ ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\DELL\.gra
 		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f9632ae1a769f65274a2ba991d093de3\AndroidManifest.xml:26:13-72
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f9632ae1a769f65274a2ba991d093de3\AndroidManifest.xml:24:13-79
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\af9f632d612ee65b7dcdcc5bb2071df9\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\75e305da26e69e6fb6385bb5612cb95d\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\75e305da26e69e6fb6385bb5612cb95d\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\29088cc7f51789571c219f19d35e7fae\AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\29088cc7f51789571c219f19d35e7fae\AndroidManifest.xml:22:5-79
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\af9f632d612ee65b7dcdcc5bb2071df9\AndroidManifest.xml:24:22-76
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\af9f632d612ee65b7dcdcc5bb2071df9\AndroidManifest.xml:25:5-68
 MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\75e305da26e69e6fb6385bb5612cb95d\AndroidManifest.xml:25:5-68

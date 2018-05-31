@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuToDoList"
+        android:icon="@drawable/ic_playlist_add_check_black_24dp"
+        android:title="toDoList"
+        app:actionViewClass="android.widgets.SearchView"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menuFavorite"
+        android:icon="@drawable/ic_favorite_empty"
+        android:title="like"
+        app:actionViewClass="android.widgets.SearchView"
+        app:showAsAction="always" />
+
+
+</menu>

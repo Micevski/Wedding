@@ -1,7 +1,9 @@
 package com.example.dell.weeding;
 
+import android.media.Image;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 /**
@@ -12,10 +14,20 @@ public class Viewholder extends RecyclerView.ViewHolder {
 
     public TextView name;
     public TextView address;
+    public ImageView image;
 
     public Viewholder(View itemView) {
         super(itemView);
         name = itemView.findViewById(R.id.Name);
-        address = itemView.findViewById(R.id.textViewAddress);
+        image = itemView.findViewById(R.id.imageView);
+    }
+
+    public void bind(final Data item, final OnItemClickListener listener) {
+
+        itemView.setOnClickListener(new View.OnClickListener() {
+            @Override public void onClick(View v) {
+                listener.onItemClick(item);
+            }
+        });
     }
 }

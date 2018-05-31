@@ -4,6 +4,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\5c817fb290d334d3447ac7f9d3fa33ec\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_shadow.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\slider-1.0.aar\\7c843b09f2c7401aabbb703c7100d00d\\res\\drawable\\image_shadow.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
         "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
     },
@@ -16,20 +20,28 @@
         "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
     },
     {
-        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_subject.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_subject.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_arrow_back.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\f9632ae1a769f65274a2ba991d093de3\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\f9632ae1a769f65274a2ba991d093de3\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_light.xml.flat",
@@ -52,6 +64,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout_tooltip.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\layout\\tooltip.xml"
     },
@@ -68,20 +84,28 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_place.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_place.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_subject.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_subject.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
-    },
-    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\4bf79e0e73c15b16cdfccbd079ebebfb\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
@@ -124,12 +148,12 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\586e7db3fc765e8c1acc0103bcee8846\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_music.png.flat",
         "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_music.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -172,16 +196,24 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_text_material.xml.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\color\\abc_btn_colored_text_material.xml"
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_phone.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.8.0.aar\\a5221b4910db6086cb3660c9a6683e7b\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_edit_text_material.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20_common_google_signin_btn_text_light_normal.xml.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.8.0.aar\\a5221b4910db6086cb3660c9a6683e7b\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_text_material.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_playlist_add_check_black_24dp.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_playlist_add_check_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_password_eye.xml.flat",
@@ -192,28 +224,28 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\f9632ae1a769f65274a2ba991d093de3\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\f9632ae1a769f65274a2ba991d093de3\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\f9632ae1a769f65274a2ba991d093de3\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_decoration.png.flat",
         "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_decoration.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -234,6 +266,10 @@
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_place.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_place.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -272,6 +308,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_log_out.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_log_out.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
@@ -286,6 +326,10 @@
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_favorite_black.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_favorite_black.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_indicator_material.xml.flat",
@@ -324,6 +368,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_phone.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_phone.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_tab_indicator_material.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable\\abc_tab_indicator_material.xml"
     },
@@ -348,16 +396,16 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\5c817fb290d334d3447ac7f9d3fa33ec\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\4bf79e0e73c15b16cdfccbd079ebebfb\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_light.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\4bf79e0e73c15b16cdfccbd079ebebfb\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\5c817fb290d334d3447ac7f9d3fa33ec\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
@@ -386,6 +434,10 @@
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_camera.png.flat",
         "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_arrow_back.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_arrow_back.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
@@ -432,6 +484,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_circle_selected.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\slider-1.0.aar\\7c843b09f2c7401aabbb703c7100d00d\\res\\drawable\\indicator_circle_selected.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -446,6 +502,10 @@
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_phone.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
@@ -468,12 +528,20 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\f9632ae1a769f65274a2ba991d093de3\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_slider.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\slider-1.0.aar\\7c843b09f2c7401aabbb703c7100d00d\\res\\layout\\row_slider.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_place.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_place.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility_off.png.flat",
@@ -496,8 +564,16 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_log_out.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_log_out.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_edittext.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_phone.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_vector_test.xml.flat",
@@ -540,6 +616,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_playlist_add_check_black_24dp.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_playlist_add_check_black_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
@@ -556,12 +636,24 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_search_black_24dp.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search_black_24dp.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_borderless_material.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_playlist_add_check_black_24dp.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_playlist_add_check_black_24dp.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_place.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_place.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -574,6 +666,14 @@
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_ic_image.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\slider-1.0.aar\\7c843b09f2c7401aabbb703c7100d00d\\res\\mipmap-hdpi-v4\\ic_image.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_dash_selected.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\slider-1.0.aar\\7c843b09f2c7401aabbb703c7100d00d\\res\\drawable\\indicator_dash_selected.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_dark.xml.flat",
@@ -620,6 +720,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_favorite_empty.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_favorite_empty.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -632,12 +736,16 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_brush.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_brush.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\5c817fb290d334d3447ac7f9d3fa33ec\\res\\layout\\design_navigation_menu.xml"
     },
     {
-        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_brush.png.flat",
-        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_brush.png"
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_effect.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\slider-1.0.aar\\7c843b09f2c7401aabbb703c7100d00d\\res\\drawable\\ripple_effect.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -664,8 +772,20 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_place.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_place.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_log_out.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_log_out.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\586e7db3fc765e8c1acc0103bcee8846\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_square_unselected.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\slider-1.0.aar\\7c843b09f2c7401aabbb703c7100d00d\\res\\drawable\\indicator_square_unselected.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -692,6 +812,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_favorites.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\src\\main\\res\\layout\\activity_favorites.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_dark.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
@@ -716,12 +840,20 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\586e7db3fc765e8c1acc0103bcee8846\\res\\layout\\notification_action_tombstone.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search_black_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_subject.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_subject.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -752,6 +884,10 @@
         "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\src\\main\\res\\drawable\\splashscreen.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_subject.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_subject.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_decoration.png.flat",
         "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_decoration.png"
     },
@@ -766,6 +902,10 @@
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\animator-v21_design_appbar_state_list_animator.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\5c817fb290d334d3447ac7f9d3fa33ec\\res\\animator-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_log_out.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_log_out.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -788,12 +928,12 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20_common_google_signin_btn_text_dark_normal.xml.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.8.0.aar\\a5221b4910db6086cb3660c9a6683e7b\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
-    },
-    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_decoration.png.flat",
         "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_decoration.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.8.0.aar\\a5221b4910db6086cb3660c9a6683e7b\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -832,6 +972,14 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
@@ -856,6 +1004,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_phone.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu.png.flat",
         "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu.png"
     },
@@ -876,6 +1028,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_log_out.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_log_out.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
@@ -886,6 +1042,10 @@
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_out.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\5c817fb290d334d3447ac7f9d3fa33ec\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
@@ -932,8 +1092,16 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\anim\\abc_slide_in_top.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_favorite_empty.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_favorite_empty.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\5c817fb290d334d3447ac7f9d3fa33ec\\res\\drawable-xxxhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_place.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_place.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -954,6 +1122,10 @@
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_colored_material.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_back.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -1000,8 +1172,16 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_favorite_black.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_favorite_black.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_check_material.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_subject.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_subject.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -1010,6 +1190,10 @@
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\5c817fb290d334d3447ac7f9d3fa33ec\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_favorite_empty.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_favorite_empty.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_design_tint_password_toggle.xml.flat",
@@ -1034,6 +1218,10 @@
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_bottom.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_favorite_empty.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_favorite_empty.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_music.xml.flat",
@@ -1076,12 +1264,20 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\5c817fb290d334d3447ac7f9d3fa33ec\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_circle_unselected.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\slider-1.0.aar\\7c843b09f2c7401aabbb703c7100d00d\\res\\drawable\\indicator_circle_unselected.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_camera.png.flat",
         "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ripple_effect.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\slider-1.0.aar\\7c843b09f2c7401aabbb703c7100d00d\\res\\drawable-v21\\ripple_effect.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -1096,12 +1292,24 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\color\\abc_tint_switch_track.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4_ic_image.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\slider-1.0.aar\\7c843b09f2c7401aabbb703c7100d00d\\res\\mipmap-xxxhdpi-v4\\ic_image.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_favorite_black.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_favorite_black.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header.xml.flat",
         "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow_back.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_arrow_back.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -1136,6 +1344,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search_black_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\f9632ae1a769f65274a2ba991d093de3\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
@@ -1152,20 +1364,32 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_voice_search_api_material.xml.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_favorite_empty.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_favorite_empty.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_music.png.flat",
         "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_music.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\586e7db3fc765e8c1acc0103bcee8846\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_favorite_black.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_favorite_black.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_bottom_navigation_item_background.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\5c817fb290d334d3447ac7f9d3fa33ec\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_favorite_black.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_favorite_black.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar.xml.flat",
@@ -1180,12 +1404,12 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\586e7db3fc765e8c1acc0103bcee8846\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1268,8 +1492,16 @@
         "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_restourant.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search_black_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_header.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\5c817fb290d334d3447ac7f9d3fa33ec\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_dash_unselected.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\slider-1.0.aar\\7c843b09f2c7401aabbb703c7100d00d\\res\\drawable\\indicator_dash_unselected.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_in.xml.flat",
@@ -1286,6 +1518,10 @@
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\f9632ae1a769f65274a2ba991d093de3\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_round_square_selected.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\slider-1.0.aar\\7c843b09f2c7401aabbb703c7100d00d\\res\\drawable\\indicator_round_square_selected.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
@@ -1340,12 +1576,12 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\586e7db3fc765e8c1acc0103bcee8846\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark.xml.flat",
@@ -1400,8 +1636,16 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_favorite_empty.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_favorite_empty.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\f9632ae1a769f65274a2ba991d093de3\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_ic_image.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\slider-1.0.aar\\7c843b09f2c7401aabbb703c7100d00d\\res\\mipmap-xxhdpi-v4\\ic_image.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
@@ -1436,6 +1680,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_square_selected.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\slider-1.0.aar\\7c843b09f2c7401aabbb703c7100d00d\\res\\drawable\\indicator_square_selected.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
@@ -1460,8 +1708,20 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_favorite_black.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_favorite_black.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_favorite_black.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_favorite_black.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -1514,6 +1774,10 @@
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -1596,8 +1860,16 @@
         "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_brush.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_city_select.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\src\\main\\res\\layout\\activity_city_select.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_navigation_drawer.xml.flat",
         "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\src\\main\\res\\menu\\activity_navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_subject.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_subject.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -1704,8 +1976,16 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_favorite_empty.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_favorite_empty.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_search_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_restourant.png.flat",
@@ -1728,6 +2008,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrow_back.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_arrow_back.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\f9632ae1a769f65274a2ba991d093de3\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
     },
@@ -1742,6 +2026,10 @@
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_arrow_back.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_arrow_back.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_brush.png.flat",
@@ -1760,6 +2048,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search_black_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
@@ -1768,8 +2060,16 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\5c817fb290d334d3447ac7f9d3fa33ec\\res\\anim\\design_snackbar_in.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_playlist_add_check_black_24dp.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_playlist_add_check_black_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility_off.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\5c817fb290d334d3447ac7f9d3fa33ec\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -1784,12 +2084,12 @@
         "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -1864,6 +2164,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\layout-v26\\abc_screen_toolbar.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_favorites.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\src\\main\\res\\menu\\menu_favorites.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -1892,8 +2196,24 @@
         "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_decoration.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_log_out.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_log_out.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_playlist_add_check_black_24dp.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_playlist_add_check_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
@@ -1914,6 +2234,10 @@
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_text_input_password_icon.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\5c817fb290d334d3447ac7f9d3fa33ec\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_item_detials.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\src\\main\\res\\layout\\activity_item_detials.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -1980,6 +2304,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_playlist_add_check_black_24dp.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_playlist_add_check_black_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
@@ -2016,8 +2344,16 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\5c817fb290d334d3447ac7f9d3fa33ec\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_place.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_place.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4_ic_image.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\slider-1.0.aar\\7c843b09f2c7401aabbb703c7100d00d\\res\\mipmap-mdpi-v4\\ic_image.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -2036,12 +2372,24 @@
         "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\src\\main\\res\\drawable\\signinbutton.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_log_out.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_log_out.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_search_bar.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\src\\main\\res\\menu\\menu_search_bar.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\anim\\abc_popup_exit.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_gallery.png.flat",
         "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_round_square_unselected.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\slider-1.0.aar\\7c843b09f2c7401aabbb703c7100d00d\\res\\drawable\\indicator_round_square_unselected.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
@@ -2058,6 +2406,10 @@
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_favorites.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\src\\main\\res\\layout\\fragment_favorites.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
@@ -2088,6 +2440,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_switch_thumb_material.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable\\abc_switch_thumb_material.xml"
     },
@@ -2096,16 +2452,24 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\f9632ae1a769f65274a2ba991d093de3\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\4bf79e0e73c15b16cdfccbd079ebebfb\\res\\layout\\notification_template_big_media.xml"
-    },
-    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu.png.flat",
         "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_menu.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\4bf79e0e73c15b16cdfccbd079ebebfb\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_back.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_arrow_back.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\slider-1.0.aar\\7c843b09f2c7401aabbb703c7100d00d\\res\\anim\\fade_in.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_restourant.png.flat",
@@ -2168,6 +2532,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4_ic_image.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\slider-1.0.aar\\7c843b09f2c7401aabbb703c7100d00d\\res\\mipmap-xhdpi-v4\\ic_image.png"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
@@ -2208,12 +2576,16 @@
         "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_restourant.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_abc_control_background_material.xml.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-v23\\abc_control_background_material.xml"
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_subject.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_subject.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_brush.png.flat",
         "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_brush.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_abc_control_background_material.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f39598cd3ba1c651d8a028bfd693592f\\res\\drawable-v23\\abc_control_background_material.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu.xml.flat",
@@ -2242,6 +2614,10 @@
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_design_ic_visibility.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\5c817fb290d334d3447ac7f9d3fa33ec\\res\\drawable-xxhdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_playlist_add_check_black_24dp.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_playlist_add_check_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Documents\\Repo\\Wedding\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
