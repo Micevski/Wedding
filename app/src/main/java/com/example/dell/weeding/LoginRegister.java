@@ -54,14 +54,7 @@ public class LoginRegister extends AppCompatActivity {
                 registerThred.start();
             }
         });
-        TextView textViewSkip = (TextView) findViewById(R.id.skip);
-        textViewSkip.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent regIntent = new Intent(getApplicationContext(), MainActivity.class);
-                startActivity(regIntent);
-            }
-        });
+
     }
 
     public void btnLogIn_OnClick(View v) {

@@ -13,7 +13,6 @@ import android.widget.TextView;
 public class Viewholder extends RecyclerView.ViewHolder {
 
     public TextView name;
-    public TextView address;
     public ImageView image;
 
     public Viewholder(View itemView) {

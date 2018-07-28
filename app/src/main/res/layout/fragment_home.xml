@@ -1,0 +1,191 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scroll"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+<LinearLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.dell.weeding.HomeFragment"
+    android:orientation="vertical">
+
+    <!-- TODO: Update blank fragment layout -->
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/restorurants"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="РЕСТОРАНТИ"
+                android:textSize="24dp" />
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/restaurantsView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/restorurants"/>
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+    <!-- TODO: Update blank fragment layout -->
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/photography"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ФОТОГРАФИ"
+                android:textSize="24dp" />
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/photgraphyView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/photography"/>
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+    <!-- TODO: Update blank fragment layout -->
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/clothingF"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ОБЛЕКА"
+                android:textSize="24dp" />
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/clothingView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/clothingF"/>
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+    <!-- TODO: Update blank fragment layout -->
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/makeUpTV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ШМИНКА"
+                android:textSize="24dp" />
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/makeUpView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/makeUpTV"/>
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+    <!-- TODO: Update blank fragment layout -->
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/musicTV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="МУЗИКА"
+                android:textSize="24dp" />
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/musicView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/musicTV"/>
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+    <!-- TODO: Update blank fragment layout -->
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/cakeTV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ТОРТИ"
+                android:textSize="24dp" />
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/cakeView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/cakeTV"/>
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+    <!-- TODO: Update blank fragment layout -->
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/decorationTV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ДЕКОРАЦИЈА"
+                android:textSize="24dp" />
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/decorationView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/decorationTV"/>
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>
+</ScrollView>

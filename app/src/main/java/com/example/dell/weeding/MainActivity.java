@@ -3,6 +3,7 @@ package com.example.dell.weeding;
 import android.content.Intent;
 import android.net.Uri;
 import android.support.design.widget.NavigationView;
+import android.support.v4.app.FragmentTransaction;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBar;
@@ -30,10 +31,9 @@ import java.util.List;
 import java.util.Map;
 
 
-public class MainActivity extends AppCompatActivity  {
+public class MainActivity extends AppCompatActivity {
 
-    private RecycleViewAdapter adapter;
-    private RecyclerView recyclerView;
+
     private DrawerLayout mDrawerLayout;
     private FirebaseAuth mAuth;
     private FirebaseUser currentUser;
@@ -69,7 +69,6 @@ public class MainActivity extends AppCompatActivity  {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_navigation);
 
-        recyclerView = findViewById(R.id.RecyclerView);
         mAuth = FirebaseAuth.getInstance();
         favoriteButton = findViewById(R.id.menuFavorite);
 
@@ -97,32 +96,25 @@ public class MainActivity extends AppCompatActivity  {
                         // set item as selected to persist highlight
                         int id = menuItem.getItemId();
 
-                        if (id==R.id.homeStart){
+                        Intent type = new Intent(MainActivity.this, CategoryFragment.class);
 
-                        }
-                        else if (id == R.id.restorurant) {
-                            onCategoryClickHandler("restaurants");
-                            itemDetailIntent.putExtra("TYPE","restaurants");
+                        if (id == R.id.homeStart) {
+                            setHomeFragment();
+                        } else if (id == R.id.restorurant) {
+                            setFragment("restaurants");
                         } else if (id == R.id.photo) {
-                            onCategoryClickHandler("photography");
-                            itemDetailIntent.putExtra("TYPE","photography");
+                            setFragment("photography");
                         } else if (id == R.id.clothing) {
-                            onCategoryClickHandler("clothing");
-                            itemDetailIntent.putExtra("TYPE","clothing");
+                            setFragment("clothing");
                         } else if (id == R.id.makeUp) {
-                            onCategoryClickHandler("makeUp");
-                            itemDetailIntent.putExtra("TYPE","makeUp");
+                            setFragment("makeUp");
                         } else if (id == R.id.music) {
-                            onCategoryClickHandler("music");
-                            itemDetailIntent.putExtra("TYPE","music");
+                            setFragment("music");
                         } else if (id == R.id.cake) {
-                            onCategoryClickHandler("cake");
-                            itemDetailIntent.putExtra("TYPE","cake");
-                        } else if (id==R.id.decoration){
-                            onCategoryClickHandler("decoration");
-                            itemDetailIntent.putExtra("TYPE","decoration");
-                        }
-                        else if (id==R.id.logOut){
+                            setFragment("cake");
+                        } else if (id == R.id.decoration) {
+                            setFragment("decoration");
+                        } else if (id == R.id.logOut) {
                             mAuth.signOut();
                             startActivity(new Intent(MainActivity.this, LoginRegister.class));
                             finish();
@@ -144,45 +136,23 @@ public class MainActivity extends AppCompatActivity  {
 
         profilName = header.findViewById(R.id.nameOfUser);
         profilName.setText(currentUser.getDisplayName());
+
+        navigationView.getMenu().getItem(0).setChecked(true);
+        setHomeFragment();
     }
 
-    public void onCategoryClickHandler (String category){
-        FirebaseDatabase.getInstance().getReference().child(city).child(category).addValueEventListener(new ValueEventListener() {
-            @Override
-            public void onDataChange(DataSnapshot dataSnapshot) {
-                List<Data> temp = new ArrayList<Data>();
-                List<String> images = new ArrayList<>();
-                for (DataSnapshot snap : dataSnapshot.getChildren()) {
-                    images = (List<String>)snap.child("images").getValue();
-                    Long id = (Long)snap.child("id").getValue();
-                    List<Double> coordinates = (List<Double>)snap.child("coordinates").getValue();
-                    Map<String, String> item = (Map<String, String>)snap.getValue();
-                    Data data = new Data(id, item.get("name"), item.get("address"),
-                            item.get("phone"),item.get("img"),
-                            item.get("shortDescription"),images, coordinates);
-                    temp.add(data);
-                }
-                adapter.setData(temp);
-                adapter.notifyDataSetChanged();
-            }
 
-            @Override
-            public void onCancelled(DatabaseError databaseError) {
+    public void setFragment(String category) {
+        FragmentTransaction fragmentTransaction = getSupportFragmentManager().beginTransaction();
+        CategoryFragment categoryFragment = CategoryFragment.newInstance(category, city);
+        fragmentTransaction.replace(R.id.categoryFragment, categoryFragment);
+        fragmentTransaction.commit();
+    }
 
-            }
-        });
-        adapter = new RecycleViewAdapter(this, new OnItemClickListener() {
-            @Override
-            public void onItemClick(Data item) {
-                itemDetailIntent.putExtra("ITEM",item);
-                startActivity(itemDetailIntent);
-            }
-        });
-        RecyclerView.LayoutManager layoutManager= new LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false);
-        recyclerView.setLayoutManager(layoutManager);
-
-        recyclerView.setAdapter(adapter);
-
-
+    public void setHomeFragment() {
+        FragmentTransaction fragmentTransaction = getSupportFragmentManager().beginTransaction();
+        HomeFragment homeFragment = HomeFragment.newInstance(city);
+        fragmentTransaction.replace(R.id.categoryFragment, homeFragment);
+        fragmentTransaction.commit();
     }
 }

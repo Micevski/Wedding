@@ -8,8 +8,10 @@
     tools:context="com.example.dell.weeding.navigation"
     tools:showIn="@layout/app_bar_navigation">
 
-    <android.support.v7.widget.RecyclerView
+    <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/RecyclerView"  />
+        android:id="@+id/categoryFragment" />
+
+
 </android.support.constraint.ConstraintLayout>
